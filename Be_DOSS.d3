@@ -1,0 +1,9 @@
+NEWK
+12 24
+1 0
+DOSS
+0 200 n_nband_min n_band_max 1 25 0
+nbr_OA_s etiquettes_OA (1 to nbr_OA_s)
+nbr_OA_pz etiqettes_OA (1 to nbr_OA_pz)
+nbr_OA_px&py etiquettes_OA (1 to nbr_OA_px&py)
+END
