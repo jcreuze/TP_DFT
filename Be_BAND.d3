@@ -1,0 +1,9 @@
+BAND
+Be
+5 12 120 n_band_min n_band_max 1 0
+0 0 0 0 3 0 G M
+0 3 0 0 3 3 M L
+0 3 3 -2 4 3 L H
+-2 4 3 -2 4 0 H K
+-2 4 0 0 0 0 K G
+END
