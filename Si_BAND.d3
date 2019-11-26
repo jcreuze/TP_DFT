@@ -1,8 +1,0 @@
-BAND 
-Si 
-4 8 120 n_band_min n_band_max 1 0 
-0 0 0 4 0 4 
-4 0 4 4 2 6 
-4 2 6 4 4 4 
-4 4 4 0 0 0 
-END
